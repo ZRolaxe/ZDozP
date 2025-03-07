@@ -15,7 +15,6 @@ Simple but effective ddos attack
 
 ## Setup
 
-* https://github.com/Reloxe/ZDOZ/releases/   <  Download the latest releases
 * "MODULES İNSTALL FİRST RUN.bat" Run the file
 * You can delete that file after the download is finished.
 * USE START.BAT BY RUN
