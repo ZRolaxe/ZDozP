@@ -1,4 +1,4 @@
-# ZDOZ
+# ZDOZ-P
 Simple but effective ddos attack
 
 
