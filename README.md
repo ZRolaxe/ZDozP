@@ -27,4 +27,4 @@ Tip > Attack the same server from multiple powerful systems for best effect.
 
 ## Images
 
-![image](https://user-images.githubusercontent.com/97050615/193459725-fd7b9a31-c87a-49b0-93b6-71a806741700.png)
+![ddos](https://github.com/user-attachments/assets/ad75699a-fc0d-438b-a726-5aa73de2e28f)
